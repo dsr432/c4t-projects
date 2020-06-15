@@ -1,0 +1,2 @@
+Rock, Paper, scissors - Rating: Medium
+Description: make a program that plays rock, paper, scissors with the player, as many times as the player chooses. Each round, tell the player if they won, lost, or tied. If the player enters some invalid input, tell the player to reenter.

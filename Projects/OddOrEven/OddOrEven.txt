@@ -1,0 +1,2 @@
+Odd or Even - Rating: Easy
+Description: Enter a number. Your program should output “even” if you enter an even number, and the program should output “odd” if you enter an odd number.

@@ -1,0 +1,2 @@
+Guess the Number Game - Rating: Medium
+Description: make a program that generates a random number between 1 and 10, and then asks the player to enter a guess.  If the player gets it right, the program will tell the player that they won, if not it tells the player to try again.
